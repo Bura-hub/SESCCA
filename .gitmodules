@@ -1,0 +1,9 @@
+[submodule "prototipo"]
+	path = prototipo
+	url = https://github.com/juansebasdev/sescca.git
+[submodule "tablero"]
+	path = tablero
+	url = https://github.com/juansebasdev/sescca_interface.git
+[submodule "web"]
+	path = web
+	url = https://github.com/juansebasdev/sescca_web.git
