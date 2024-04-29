@@ -1,4 +1,4 @@
-# SESCCA - Sistema Electronico para el Suministro de Contigencias en el Comportamiento en en Aula de Clases
+# SESCCA - Sistema Electronico para el Suministro de Contigencias en el Comportamiento en el Aula de Clases
 
 ¡Bienvenido al repositorio principal del proyecto SESCCA!
 
