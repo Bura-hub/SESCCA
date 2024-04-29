@@ -7,7 +7,7 @@ Este repositorio contiene los diferentes módulos que conforman nuestra solució
 ## Módulos Disponibles:
 
 - **SESCCA-SW-AppProtPup:** Contiene el script de programación en el IDE de Arduino de la tarjeta controladora del prototipo de pupitre del sistema SESCCA.
-- **-sescca.SW.AppTab:** Contiene el código para la implementación de la aplicación de la interfaz gráfica del tablero del sistema SESCCA.
+- **SESCCA-SW-AppTab:** Contiene el código para la implementación de la aplicación de la interfaz gráfica del tablero del sistema SESCCA.
 - **SESCCA-SW-AppSESCCA:** Contiene el código para la implementación de la aplicación web que permite la ejecución de las funciones principales del sistema SESCCA: registrar estudiantes, aplicar refuerzos y autoevalur estudiantes; entre otras.
 
 ## Uso:
