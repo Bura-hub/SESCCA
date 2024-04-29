@@ -1,9 +1,9 @@
-[submodule "tablero"]
-	path = tablero
-	url = https://github.com/juansebasdev/sescca_interface.git
-[submodule "web"]
-	path = web
-	url = https://github.com/juansebasdev/sescca_web.git
-[submodule "prototipo2"]
-	path = prototipo2
+[submodule "SESCCA-SW-AppProtPup"]
+	path = SESCCA-SW-AppProtPup
 	url = https://github.com/juansebasdev/sescca.git
+[submodule "SESCCA-SW-AppTab"]
+	path = SESCCA-SW-AppTab
+	url = https://github.com/juansebasdev/sescca_interface.git
+[submodule "SESCCA-SW-AppSESCCA"]
+	path = SESCCA-SW-AppSESCCA
+	url = https://github.com/juansebasdev/sescca_web.git
